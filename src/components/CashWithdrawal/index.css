@@ -1,0 +1,104 @@
+/* Write your CSS here */
+
+.inne {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+
+  flex-wrap: wrap;
+  justify-content: space-between;
+  /* padding: 1.5vw; */
+}
+
+.ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.main1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  margin-right: auto;
+}
+.p {
+  width: 3.6vw;
+  height: 3.6vw;
+  min-width: 40px;
+  min-height: 40px;
+  border-radius: 50px;
+  background-color: #c7d2fe;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-right: 20px;
+}
+.main0 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 70vw;
+  height: 70vh;
+  margin: auto;
+}
+.main2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.inn1 {
+  margin-bottom: 0px;
+  color: #c7d2fe;
+}
+.inn2 {
+  margin-top: 0px;
+  color: #585076;
+}
+.main2Inn {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.main {
+  max-width: 60%;
+  padding: 2vw;
+  margin: 20%;
+  min-width: 300px;
+
+  background-color: #382f5a;
+  border-radius: 1vw;
+  height: 95%;
+}
+.pp {
+  color: #7c3aed;
+  font-size: 25px;
+}
+.top {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: auto;
+}
+.bal {
+  color: #585076;
+  font-weight: 600;
+  font-size: 20px;
+}
+.c {
+  color: #c7d2fe;
+}
+.z {
+  color: #585076;
+}
